@@ -1,0 +1,21 @@
+h1 {
+    text-transform: uppercase;
+    size: 2rem;
+}
+body {
+    background-color: black;
+}
+
+.post {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 70px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+.Motivational-qoute{
+    border: 7px solid white;
+    height: 341px;
+    width: 512px;
+}
